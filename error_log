@@ -1,0 +1,443 @@
+[27-Jan-2020 17:53:51 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 7
+[27-Jan-2020 17:53:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/vgeccon.php on line 86
+[27-Jan-2020 17:55:04 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 7
+[27-Jan-2020 17:55:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/vgecbooks.php on line 88
+[27-Jan-2020 17:55:51 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 7
+[27-Jan-2020 17:55:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/vgecbooks.php on line 88
+[27-Jan-2020 17:56:46 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 7
+[27-Jan-2020 17:56:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/vgecbin.php on line 9
+[27-Jan-2020 17:57:11 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 7
+[27-Jan-2020 17:57:11 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/vgecegd.php on line 88
+[27-Jan-2020 17:58:11 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 7
+[27-Jan-2020 17:58:11 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/vgecegdin.php on line 9
+[27-Jan-2020 17:58:32 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 7
+[27-Jan-2020 17:58:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/vgece.php on line 88
+[27-Jan-2020 18:01:05 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 7
+[27-Jan-2020 18:01:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/vgece.php on line 88
+[27-Jan-2020 18:01:46 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 7
+[27-Jan-2020 18:01:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/vgecein.php on line 9
+[27-Jan-2020 18:01:57 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 7
+[27-Jan-2020 18:01:57 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/vgecapron.php on line 88
+[27-Jan-2020 18:02:50 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 7
+[27-Jan-2020 18:02:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/vgecapin.php on line 9
+[27-Jan-2020 18:03:01 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 7
+[27-Jan-2020 18:03:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/vgeccon.php on line 86
+[27-Jan-2020 18:03:26 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 7
+[27-Jan-2020 18:03:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/vgecconin.php on line 7
+[27-Jan-2020 18:04:09 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 7
+[27-Jan-2020 18:04:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/vgecpg.php on line 85
+[27-Jan-2020 18:04:24 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 7
+[27-Jan-2020 18:04:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/vgecpgin.php on line 8
+[27-Jan-2020 18:16:54 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 7
+[27-Jan-2020 18:16:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/vgecbooks.php on line 88
+[27-Jan-2020 18:17:07 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 7
+[27-Jan-2020 18:17:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/vgecbin.php on line 9
+[27-Jan-2020 18:17:18 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 7
+[27-Jan-2020 18:17:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/vgecbin.php on line 9
+[27-Jan-2020 18:17:35 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 7
+[27-Jan-2020 18:17:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/vgecbooks.php on line 88
+[27-Jan-2020 18:33:06 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 7
+[27-Jan-2020 18:33:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/vgeccon.php on line 86
+[27-Jan-2020 18:33:49 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 7
+[27-Jan-2020 18:33:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/vgecconin.php on line 7
+[27-Jan-2020 18:34:03 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 7
+[27-Jan-2020 18:34:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/vgeccon.php on line 86
+[28-Jan-2020 03:26:47 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 7
+[28-Jan-2020 03:26:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/vgeccon.php on line 86
+[28-Jan-2020 03:27:09 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 7
+[28-Jan-2020 03:27:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/vgecconin.php on line 7
+[28-Jan-2020 04:06:05 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 7
+[28-Jan-2020 04:06:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/vgecbooks.php on line 88
+[28-Jan-2020 04:06:50 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 7
+[28-Jan-2020 04:06:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/vgecbin.php on line 9
+[28-Jan-2020 04:27:50 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'HOSTNAME' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 7
+[28-Jan-2020 04:27:50 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/loho.php on line 10
+[28-Jan-2020 04:27:56 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'HOSTNAME' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 7
+[28-Jan-2020 04:27:56 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/loho.php on line 10
+[28-Jan-2020 04:33:49 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'HOSTNAME' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 7
+[28-Jan-2020 04:33:49 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/loho.php on line 10
+[28-Jan-2020 04:33:52 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'HOSTNAME' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 7
+[28-Jan-2020 04:33:52 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/loho.php on line 10
+[28-Jan-2020 04:34:26 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'HOSTNAME' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 7
+[28-Jan-2020 04:34:26 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/loho.php on line 10
+[28-Jan-2020 04:34:43 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'HOSTNAME' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 7
+[28-Jan-2020 04:34:43 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/loho.php on line 10
+[28-Jan-2020 04:37:58 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 7
+[28-Jan-2020 04:37:58 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/loho.php on line 10
+[28-Jan-2020 04:38:00 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 7
+[28-Jan-2020 04:38:00 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/loho.php on line 10
+[28-Jan-2020 04:38:02 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 7
+[28-Jan-2020 04:38:02 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/loho.php on line 10
+[28-Jan-2020 04:38:04 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 7
+[28-Jan-2020 04:38:04 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/loho.php on line 10
+[28-Jan-2020 04:39:09 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 7
+[28-Jan-2020 04:39:09 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/loho.php on line 10
+[28-Jan-2020 04:39:12 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 7
+[28-Jan-2020 04:39:12 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/loho.php on line 10
+[28-Jan-2020 04:41:25 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 7
+[28-Jan-2020 04:41:25 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/loho.php on line 10
+[28-Jan-2020 04:41:27 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 7
+[28-Jan-2020 04:41:27 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/loho.php on line 10
+[28-Jan-2020 04:45:08 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 3
+[28-Jan-2020 04:45:08 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/loho.php on line 6
+[28-Jan-2020 04:45:13 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 3
+[28-Jan-2020 04:45:13 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/loho.php on line 6
+[28-Jan-2020 04:51:14 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 3
+[28-Jan-2020 04:51:14 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/loho.php on line 6
+[28-Jan-2020 04:51:18 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 3
+[28-Jan-2020 04:51:18 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/loho.php on line 6
+[28-Jan-2020 04:51:21 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 3
+[28-Jan-2020 04:51:21 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/loho.php on line 6
+[28-Jan-2020 04:51:24 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 3
+[28-Jan-2020 04:51:24 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/loho.php on line 6
+[28-Jan-2020 04:51:30 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 3
+[28-Jan-2020 04:51:30 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/loho.php on line 6
+[28-Jan-2020 04:51:39 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 3
+[28-Jan-2020 04:51:39 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/loho.php on line 6
+[28-Jan-2020 04:51:46 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 3
+[28-Jan-2020 04:51:46 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/loho.php on line 6
+[28-Jan-2020 04:55:28 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/cy63deg3qhxi/public_html/loho.php on line 3
+[28-Jan-2020 04:57:38 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 3
+[28-Jan-2020 04:57:38 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/loho.php on line 6
+[28-Jan-2020 04:57:41 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 3
+[28-Jan-2020 04:57:41 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/loho.php on line 6
+[28-Jan-2020 04:58:15 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 3
+[28-Jan-2020 04:58:15 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/loho.php on line 6
+[28-Jan-2020 04:58:17 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 3
+[28-Jan-2020 04:58:17 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/loho.php on line 6
+[28-Jan-2020 04:58:58 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 3
+[28-Jan-2020 04:58:58 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/loho.php on line 6
+[28-Jan-2020 04:59:26 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 3
+[28-Jan-2020 04:59:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/vgecbooks.php on line 88
+[28-Jan-2020 04:59:58 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 3
+[28-Jan-2020 04:59:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/vgecbin.php on line 9
+[28-Jan-2020 05:00:38 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 3
+[28-Jan-2020 05:00:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/vgecbooks.php on line 88
+[28-Jan-2020 05:00:49 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 3
+[28-Jan-2020 05:00:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/vgecbooks.php on line 88
+[28-Jan-2020 05:02:22 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 3
+[28-Jan-2020 05:02:22 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/vgecbin.php on line 9
+[28-Jan-2020 05:02:23 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 3
+[28-Jan-2020 05:02:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/vgecbin.php on line 9
+[28-Jan-2020 05:02:23 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 3
+[28-Jan-2020 05:02:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/vgecbin.php on line 9
+[28-Jan-2020 05:02:35 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 3
+[28-Jan-2020 05:02:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/vgecbooks.php on line 88
+[28-Jan-2020 05:03:16 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 3
+[28-Jan-2020 05:03:16 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/loho.php on line 6
+[28-Jan-2020 05:05:00 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 3
+[28-Jan-2020 05:05:00 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/loho.php on line 6
+[28-Jan-2020 05:09:07 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 3
+[28-Jan-2020 05:09:07 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/loho.php on line 6
+[28-Jan-2020 05:09:11 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 3
+[28-Jan-2020 05:09:11 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/loho.php on line 6
+[28-Jan-2020 05:09:13 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 3
+[28-Jan-2020 05:09:13 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/loho.php on line 6
+[28-Jan-2020 05:11:05 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 3
+[28-Jan-2020 05:11:05 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/loho.php on line 6
+[28-Jan-2020 05:11:49 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 3
+[28-Jan-2020 05:11:49 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/loho.php on line 6
+[28-Jan-2020 05:11:53 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 3
+[28-Jan-2020 05:11:53 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/loho.php on line 6
+[28-Jan-2020 05:11:55 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 3
+[28-Jan-2020 05:11:55 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/loho.php on line 6
+[28-Jan-2020 05:13:49 UTC] PHP Warning:  require(loho.php): failed to open stream: No such file or directory in /home/cy63deg3qhxi/public_html/vgecbooks.php on line 86
+[28-Jan-2020 05:13:49 UTC] PHP Fatal error:  require(): Failed opening required 'loho.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/cy63deg3qhxi/public_html/vgecbooks.php on line 86
+[28-Jan-2020 05:14:01 UTC] PHP Warning:  require(loho.php): failed to open stream: No such file or directory in /home/cy63deg3qhxi/public_html/vgecbooks.php on line 86
+[28-Jan-2020 05:14:01 UTC] PHP Fatal error:  require(): Failed opening required 'loho.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/cy63deg3qhxi/public_html/vgecbooks.php on line 86
+[28-Jan-2020 05:14:06 UTC] PHP Warning:  require(loho.php): failed to open stream: No such file or directory in /home/cy63deg3qhxi/public_html/vgecbooks.php on line 86
+[28-Jan-2020 05:14:06 UTC] PHP Fatal error:  require(): Failed opening required 'loho.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/cy63deg3qhxi/public_html/vgecbooks.php on line 86
+[28-Jan-2020 05:14:46 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 7
+[28-Jan-2020 05:14:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/vgecbooks.php on line 88
+[28-Jan-2020 05:15:56 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 7
+[28-Jan-2020 05:15:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/vgecbooks.php on line 88
+[28-Jan-2020 05:16:22 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 7
+[28-Jan-2020 05:16:22 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/vgecbin.php on line 9
+[28-Jan-2020 05:28:46 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 7
+[28-Jan-2020 05:28:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/vgecbin.php on line 9
+[28-Jan-2020 05:28:56 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 7
+[28-Jan-2020 05:28:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/vgecbooks.php on line 88
+[28-Jan-2020 05:29:52 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 6
+[28-Jan-2020 05:29:52 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/loho.php on line 9
+[28-Jan-2020 05:32:48 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 3
+[28-Jan-2020 05:32:48 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/loho.php on line 6
+[28-Jan-2020 05:32:50 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 3
+[28-Jan-2020 05:32:50 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/loho.php on line 6
+[28-Jan-2020 05:32:57 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 3
+[28-Jan-2020 05:32:57 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/loho.php on line 6
+[28-Jan-2020 05:32:59 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 3
+[28-Jan-2020 05:32:59 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/loho.php on line 6
+[28-Jan-2020 06:04:57 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 3
+[28-Jan-2020 06:04:57 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/loho.php on line 6
+[28-Jan-2020 06:42:35 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 3
+[28-Jan-2020 06:42:35 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/loho.php on line 6
+[28-Jan-2020 06:42:38 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 3
+[28-Jan-2020 06:42:38 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/loho.php on line 6
+[28-Jan-2020 06:42:40 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 3
+[28-Jan-2020 06:42:40 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/loho.php on line 6
+[28-Jan-2020 06:42:42 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 3
+[28-Jan-2020 06:42:42 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/loho.php on line 6
+[28-Jan-2020 07:05:18 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 3
+[28-Jan-2020 07:05:18 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/loho.php on line 6
+[28-Jan-2020 07:05:21 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 3
+[28-Jan-2020 07:05:21 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/loho.php on line 6
+[28-Jan-2020 07:05:41 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'cy63deg3qhxi@localhost'@'localhost' (using password: YES) in /home/cy63deg3qhxi/public_html/loho.php on line 3
+[28-Jan-2020 07:05:41 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/loho.php on line 6
+[28-Jan-2020 07:05:44 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'cy63deg3qhxi@localhost'@'localhost' (using password: YES) in /home/cy63deg3qhxi/public_html/loho.php on line 3
+[28-Jan-2020 07:05:44 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/loho.php on line 6
+[28-Jan-2020 07:06:58 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 3
+[28-Jan-2020 07:06:58 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/loho.php on line 6
+[28-Jan-2020 07:07:06 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 3
+[28-Jan-2020 07:07:06 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/loho.php on line 6
+[28-Jan-2020 07:07:35 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'cy63deg3qhxi@localhost'@'localhost' (using password: YES) in /home/cy63deg3qhxi/public_html/loho.php on line 3
+[28-Jan-2020 07:07:35 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/loho.php on line 6
+[28-Jan-2020 07:07:38 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'cy63deg3qhxi@localhost'@'localhost' (using password: YES) in /home/cy63deg3qhxi/public_html/loho.php on line 3
+[28-Jan-2020 07:07:38 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/loho.php on line 6
+[28-Jan-2020 07:07:49 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'cy63deg3qhxi@localhost'@'localhost' (using password: YES) in /home/cy63deg3qhxi/public_html/loho.php on line 3
+[28-Jan-2020 07:07:49 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/loho.php on line 6
+[28-Jan-2020 07:09:23 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'expinfo'@'localhost' (using password: YES) in /home/cy63deg3qhxi/public_html/loho.php on line 3
+[28-Jan-2020 07:09:23 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/loho.php on line 6
+[28-Jan-2020 07:09:25 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'expinfo'@'localhost' (using password: YES) in /home/cy63deg3qhxi/public_html/loho.php on line 3
+[28-Jan-2020 07:09:25 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/loho.php on line 6
+[28-Jan-2020 07:09:28 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'expinfo'@'localhost' (using password: YES) in /home/cy63deg3qhxi/public_html/loho.php on line 3
+[28-Jan-2020 07:09:28 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/loho.php on line 6
+[28-Jan-2020 07:10:48 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'expinfo'@'localhost' (using password: YES) in /home/cy63deg3qhxi/public_html/loho.php on line 3
+[28-Jan-2020 07:10:48 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/loho.php on line 6
+[28-Jan-2020 07:54:50 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 3
+[28-Jan-2020 07:54:50 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/loho.php on line 6
+[28-Jan-2020 07:55:35 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 3
+[28-Jan-2020 07:55:35 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/loho.php on line 6
+[28-Jan-2020 07:58:10 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 3
+[28-Jan-2020 07:58:10 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/loho.php on line 6
+[28-Jan-2020 07:58:54 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 3
+[28-Jan-2020 07:58:54 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/loho.php on line 6
+[28-Jan-2020 08:05:22 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 3
+[28-Jan-2020 08:05:22 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/loho.php on line 6
+[28-Jan-2020 08:05:24 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 3
+[28-Jan-2020 08:05:24 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/loho.php on line 6
+[28-Jan-2020 08:05:40 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 3
+[28-Jan-2020 08:05:40 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/loho.php on line 6
+[28-Jan-2020 08:12:57 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 3
+[28-Jan-2020 08:12:57 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/loho.php on line 6
+[28-Jan-2020 08:15:05 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:33o6' (0) in /home/cy63deg3qhxi/public_html/loho.php on line 3
+[28-Jan-2020 08:15:05 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/loho.php on line 6
+[28-Jan-2020 09:24:18 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/cy63deg3qhxi/public_html/contact_us.php on line 23
+[28-Jan-2020 09:24:30 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/cy63deg3qhxi/public_html/contact_us.php on line 23
+[28-Jan-2020 09:24:33 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/cy63deg3qhxi/public_html/contact_us.php on line 23
+[28-Jan-2020 09:24:58 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/cy63deg3qhxi/public_html/subexp.php on line 20
+[03-Feb-2020 18:14:22 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cy63deg3qhxi/public_html/server.php on line 10
+[03-Feb-2020 18:15:11 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cy63deg3qhxi/public_html/server.php on line 10
+[03-Feb-2020 18:15:25 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cy63deg3qhxi/public_html/server.php on line 10
+[03-Feb-2020 18:16:34 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cy63deg3qhxi/public_html/server.php on line 10
+[03-Feb-2020 18:16:50 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cy63deg3qhxi/public_html/server.php on line 10
+[03-Feb-2020 18:17:22 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cy63deg3qhxi/public_html/server.php on line 10
+[03-Feb-2020 18:17:22 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/server.php on line 15
+[03-Feb-2020 18:17:22 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/server.php on line 16
+[03-Feb-2020 18:17:22 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/server.php on line 17
+[03-Feb-2020 18:17:23 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/server.php on line 18
+[03-Feb-2020 18:17:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/server.php on line 32
+[03-Feb-2020 18:17:23 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/cy63deg3qhxi/public_html/server.php on line 33
+[03-Feb-2020 18:17:43 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cy63deg3qhxi/public_html/server.php on line 10
+[03-Feb-2020 18:17:58 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cy63deg3qhxi/public_html/server.php on line 10
+[03-Feb-2020 18:17:58 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/server.php on line 15
+[03-Feb-2020 18:17:58 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/server.php on line 16
+[03-Feb-2020 18:17:58 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/server.php on line 17
+[03-Feb-2020 18:17:58 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/server.php on line 18
+[03-Feb-2020 18:17:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/server.php on line 32
+[03-Feb-2020 18:17:58 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/cy63deg3qhxi/public_html/server.php on line 33
+[03-Feb-2020 18:18:08 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cy63deg3qhxi/public_html/server.php on line 10
+[03-Feb-2020 18:18:16 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cy63deg3qhxi/public_html/server.php on line 10
+[03-Feb-2020 18:18:16 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/server.php on line 55
+[03-Feb-2020 18:18:16 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/server.php on line 56
+[03-Feb-2020 18:18:22 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cy63deg3qhxi/public_html/server.php on line 10
+[03-Feb-2020 18:18:25 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cy63deg3qhxi/public_html/server.php on line 10
+[03-Feb-2020 18:18:25 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/server.php on line 15
+[03-Feb-2020 18:18:25 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/server.php on line 16
+[03-Feb-2020 18:18:25 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/server.php on line 17
+[03-Feb-2020 18:18:25 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/server.php on line 18
+[03-Feb-2020 18:18:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/server.php on line 32
+[03-Feb-2020 18:18:25 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/cy63deg3qhxi/public_html/server.php on line 33
+[03-Feb-2020 18:19:16 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cy63deg3qhxi/public_html/server.php on line 10
+[03-Feb-2020 18:19:16 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/server.php on line 15
+[03-Feb-2020 18:19:16 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/server.php on line 16
+[03-Feb-2020 18:19:16 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/server.php on line 17
+[03-Feb-2020 18:19:16 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/server.php on line 18
+[03-Feb-2020 18:19:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cy63deg3qhxi/public_html/server.php on line 32
+[03-Feb-2020 18:19:16 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/cy63deg3qhxi/public_html/server.php on line 33
+[03-Feb-2020 18:23:11 UTC] PHP Notice:  Undefined variable: db in /home/cy63deg3qhxi/public_html/server.php on line 15
+[03-Feb-2020 18:23:11 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/cy63deg3qhxi/public_html/server.php on line 15
+[03-Feb-2020 18:23:11 UTC] PHP Notice:  Undefined variable: db in /home/cy63deg3qhxi/public_html/server.php on line 16
+[03-Feb-2020 18:23:11 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/cy63deg3qhxi/public_html/server.php on line 16
+[03-Feb-2020 18:23:11 UTC] PHP Notice:  Undefined variable: db in /home/cy63deg3qhxi/public_html/server.php on line 17
+[03-Feb-2020 18:23:12 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/cy63deg3qhxi/public_html/server.php on line 17
+[03-Feb-2020 18:23:12 UTC] PHP Notice:  Undefined variable: db in /home/cy63deg3qhxi/public_html/server.php on line 18
+[03-Feb-2020 18:23:12 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/cy63deg3qhxi/public_html/server.php on line 18
+[03-Feb-2020 18:23:12 UTC] PHP Notice:  Undefined variable: db in /home/cy63deg3qhxi/public_html/server.php on line 32
+[03-Feb-2020 18:23:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/cy63deg3qhxi/public_html/server.php on line 32
+[03-Feb-2020 18:23:12 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/cy63deg3qhxi/public_html/server.php on line 33
+[03-Feb-2020 18:23:20 UTC] PHP Notice:  Undefined variable: db in /home/cy63deg3qhxi/public_html/server.php on line 15
+[03-Feb-2020 18:23:20 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/cy63deg3qhxi/public_html/server.php on line 15
+[03-Feb-2020 18:23:20 UTC] PHP Notice:  Undefined variable: db in /home/cy63deg3qhxi/public_html/server.php on line 16
+[03-Feb-2020 18:23:20 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/cy63deg3qhxi/public_html/server.php on line 16
+[03-Feb-2020 18:23:20 UTC] PHP Notice:  Undefined variable: db in /home/cy63deg3qhxi/public_html/server.php on line 17
+[03-Feb-2020 18:23:20 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/cy63deg3qhxi/public_html/server.php on line 17
+[03-Feb-2020 18:23:20 UTC] PHP Notice:  Undefined variable: db in /home/cy63deg3qhxi/public_html/server.php on line 18
+[03-Feb-2020 18:23:20 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/cy63deg3qhxi/public_html/server.php on line 18
+[03-Feb-2020 18:23:20 UTC] PHP Notice:  Undefined variable: db in /home/cy63deg3qhxi/public_html/server.php on line 32
+[03-Feb-2020 18:23:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/cy63deg3qhxi/public_html/server.php on line 32
+[03-Feb-2020 18:23:20 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/cy63deg3qhxi/public_html/server.php on line 33
+[03-Feb-2020 18:23:34 UTC] PHP Notice:  Undefined variable: db in /home/cy63deg3qhxi/public_html/server.php on line 15
+[03-Feb-2020 18:23:34 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/cy63deg3qhxi/public_html/server.php on line 15
+[03-Feb-2020 18:23:34 UTC] PHP Notice:  Undefined variable: db in /home/cy63deg3qhxi/public_html/server.php on line 16
+[03-Feb-2020 18:23:34 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/cy63deg3qhxi/public_html/server.php on line 16
+[03-Feb-2020 18:23:34 UTC] PHP Notice:  Undefined variable: db in /home/cy63deg3qhxi/public_html/server.php on line 17
+[03-Feb-2020 18:23:34 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/cy63deg3qhxi/public_html/server.php on line 17
+[03-Feb-2020 18:23:34 UTC] PHP Notice:  Undefined variable: db in /home/cy63deg3qhxi/public_html/server.php on line 18
+[03-Feb-2020 18:23:34 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/cy63deg3qhxi/public_html/server.php on line 18
+[03-Feb-2020 18:23:34 UTC] PHP Notice:  Undefined variable: db in /home/cy63deg3qhxi/public_html/server.php on line 32
+[03-Feb-2020 18:23:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/cy63deg3qhxi/public_html/server.php on line 32
+[03-Feb-2020 18:23:34 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/cy63deg3qhxi/public_html/server.php on line 33
+[03-Feb-2020 18:23:48 UTC] PHP Notice:  Undefined variable: db in /home/cy63deg3qhxi/public_html/server.php on line 15
+[03-Feb-2020 18:23:48 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/cy63deg3qhxi/public_html/server.php on line 15
+[03-Feb-2020 18:23:48 UTC] PHP Notice:  Undefined variable: db in /home/cy63deg3qhxi/public_html/server.php on line 16
+[03-Feb-2020 18:23:48 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/cy63deg3qhxi/public_html/server.php on line 16
+[03-Feb-2020 18:23:48 UTC] PHP Notice:  Undefined variable: db in /home/cy63deg3qhxi/public_html/server.php on line 17
+[03-Feb-2020 18:23:48 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/cy63deg3qhxi/public_html/server.php on line 17
+[03-Feb-2020 18:23:48 UTC] PHP Notice:  Undefined variable: db in /home/cy63deg3qhxi/public_html/server.php on line 18
+[03-Feb-2020 18:23:48 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/cy63deg3qhxi/public_html/server.php on line 18
+[03-Feb-2020 18:23:48 UTC] PHP Notice:  Undefined variable: db in /home/cy63deg3qhxi/public_html/server.php on line 32
+[03-Feb-2020 18:23:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/cy63deg3qhxi/public_html/server.php on line 32
+[03-Feb-2020 18:23:48 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/cy63deg3qhxi/public_html/server.php on line 33
+[03-Feb-2020 18:23:59 UTC] PHP Notice:  Undefined variable: db in /home/cy63deg3qhxi/public_html/server.php on line 15
+[03-Feb-2020 18:23:59 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/cy63deg3qhxi/public_html/server.php on line 15
+[03-Feb-2020 18:23:59 UTC] PHP Notice:  Undefined variable: db in /home/cy63deg3qhxi/public_html/server.php on line 16
+[03-Feb-2020 18:23:59 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/cy63deg3qhxi/public_html/server.php on line 16
+[03-Feb-2020 18:23:59 UTC] PHP Notice:  Undefined variable: db in /home/cy63deg3qhxi/public_html/server.php on line 17
+[03-Feb-2020 18:23:59 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/cy63deg3qhxi/public_html/server.php on line 17
+[03-Feb-2020 18:23:59 UTC] PHP Notice:  Undefined variable: db in /home/cy63deg3qhxi/public_html/server.php on line 18
+[03-Feb-2020 18:23:59 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/cy63deg3qhxi/public_html/server.php on line 18
+[03-Feb-2020 18:23:59 UTC] PHP Notice:  Undefined variable: db in /home/cy63deg3qhxi/public_html/server.php on line 32
+[03-Feb-2020 18:23:59 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/cy63deg3qhxi/public_html/server.php on line 32
+[03-Feb-2020 18:23:59 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/cy63deg3qhxi/public_html/server.php on line 33
+[03-Feb-2020 18:24:16 UTC] PHP Notice:  Undefined variable: db in /home/cy63deg3qhxi/public_html/server.php on line 15
+[03-Feb-2020 18:24:16 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/cy63deg3qhxi/public_html/server.php on line 15
+[03-Feb-2020 18:24:16 UTC] PHP Notice:  Undefined variable: db in /home/cy63deg3qhxi/public_html/server.php on line 16
+[03-Feb-2020 18:24:16 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/cy63deg3qhxi/public_html/server.php on line 16
+[03-Feb-2020 18:24:16 UTC] PHP Notice:  Undefined variable: db in /home/cy63deg3qhxi/public_html/server.php on line 17
+[03-Feb-2020 18:24:16 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/cy63deg3qhxi/public_html/server.php on line 17
+[03-Feb-2020 18:24:16 UTC] PHP Notice:  Undefined variable: db in /home/cy63deg3qhxi/public_html/server.php on line 18
+[03-Feb-2020 18:24:16 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/cy63deg3qhxi/public_html/server.php on line 18
+[03-Feb-2020 18:24:16 UTC] PHP Notice:  Undefined variable: db in /home/cy63deg3qhxi/public_html/server.php on line 32
+[03-Feb-2020 18:24:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/cy63deg3qhxi/public_html/server.php on line 32
+[03-Feb-2020 18:24:16 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/cy63deg3qhxi/public_html/server.php on line 33
+[03-Feb-2020 18:24:18 UTC] PHP Notice:  Undefined variable: db in /home/cy63deg3qhxi/public_html/server.php on line 15
+[03-Feb-2020 18:24:18 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/cy63deg3qhxi/public_html/server.php on line 15
+[03-Feb-2020 18:24:18 UTC] PHP Notice:  Undefined variable: db in /home/cy63deg3qhxi/public_html/server.php on line 16
+[03-Feb-2020 18:24:18 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/cy63deg3qhxi/public_html/server.php on line 16
+[03-Feb-2020 18:24:18 UTC] PHP Notice:  Undefined variable: db in /home/cy63deg3qhxi/public_html/server.php on line 17
+[03-Feb-2020 18:24:18 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/cy63deg3qhxi/public_html/server.php on line 17
+[03-Feb-2020 18:24:18 UTC] PHP Notice:  Undefined variable: db in /home/cy63deg3qhxi/public_html/server.php on line 18
+[03-Feb-2020 18:24:18 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/cy63deg3qhxi/public_html/server.php on line 18
+[03-Feb-2020 18:24:18 UTC] PHP Notice:  Undefined variable: db in /home/cy63deg3qhxi/public_html/server.php on line 32
+[03-Feb-2020 18:24:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/cy63deg3qhxi/public_html/server.php on line 32
+[03-Feb-2020 18:24:18 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/cy63deg3qhxi/public_html/server.php on line 33
+[03-Feb-2020 18:24:34 UTC] PHP Notice:  Undefined variable: db in /home/cy63deg3qhxi/public_html/server.php on line 15
+[03-Feb-2020 18:24:34 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/cy63deg3qhxi/public_html/server.php on line 15
+[03-Feb-2020 18:24:34 UTC] PHP Notice:  Undefined variable: db in /home/cy63deg3qhxi/public_html/server.php on line 16
+[03-Feb-2020 18:24:34 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/cy63deg3qhxi/public_html/server.php on line 16
+[03-Feb-2020 18:24:34 UTC] PHP Notice:  Undefined variable: db in /home/cy63deg3qhxi/public_html/server.php on line 17
+[03-Feb-2020 18:24:34 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/cy63deg3qhxi/public_html/server.php on line 17
+[03-Feb-2020 18:24:34 UTC] PHP Notice:  Undefined variable: db in /home/cy63deg3qhxi/public_html/server.php on line 18
+[03-Feb-2020 18:24:34 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/cy63deg3qhxi/public_html/server.php on line 18
+[03-Feb-2020 18:24:34 UTC] PHP Notice:  Undefined variable: db in /home/cy63deg3qhxi/public_html/server.php on line 32
+[03-Feb-2020 18:24:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/cy63deg3qhxi/public_html/server.php on line 32
+[03-Feb-2020 18:24:34 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/cy63deg3qhxi/public_html/server.php on line 33
+[03-Feb-2020 18:24:37 UTC] PHP Notice:  Undefined variable: db in /home/cy63deg3qhxi/public_html/server.php on line 15
+[03-Feb-2020 18:24:37 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/cy63deg3qhxi/public_html/server.php on line 15
+[03-Feb-2020 18:24:37 UTC] PHP Notice:  Undefined variable: db in /home/cy63deg3qhxi/public_html/server.php on line 16
+[03-Feb-2020 18:24:37 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/cy63deg3qhxi/public_html/server.php on line 16
+[03-Feb-2020 18:24:37 UTC] PHP Notice:  Undefined variable: db in /home/cy63deg3qhxi/public_html/server.php on line 17
+[03-Feb-2020 18:24:37 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/cy63deg3qhxi/public_html/server.php on line 17
+[03-Feb-2020 18:24:37 UTC] PHP Notice:  Undefined variable: db in /home/cy63deg3qhxi/public_html/server.php on line 18
+[03-Feb-2020 18:24:37 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/cy63deg3qhxi/public_html/server.php on line 18
+[03-Feb-2020 18:24:37 UTC] PHP Notice:  Undefined variable: db in /home/cy63deg3qhxi/public_html/server.php on line 32
+[03-Feb-2020 18:24:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/cy63deg3qhxi/public_html/server.php on line 32
+[03-Feb-2020 18:24:37 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/cy63deg3qhxi/public_html/server.php on line 33
+[03-Feb-2020 18:31:21 UTC] PHP Warning:  require(loho1.php): failed to open stream: No such file or directory in /home/cy63deg3qhxi/public_html/server.php on line 10
+[03-Feb-2020 18:31:21 UTC] PHP Fatal error:  require(): Failed opening required 'loho1.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/cy63deg3qhxi/public_html/server.php on line 10
+[03-Feb-2020 18:31:29 UTC] PHP Warning:  require(loho1.php): failed to open stream: No such file or directory in /home/cy63deg3qhxi/public_html/server.php on line 10
+[03-Feb-2020 18:31:29 UTC] PHP Fatal error:  require(): Failed opening required 'loho1.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/cy63deg3qhxi/public_html/server.php on line 10
+[03-Feb-2020 18:31:31 UTC] PHP Warning:  require(loho1.php): failed to open stream: No such file or directory in /home/cy63deg3qhxi/public_html/server.php on line 10
+[03-Feb-2020 18:31:31 UTC] PHP Fatal error:  require(): Failed opening required 'loho1.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/cy63deg3qhxi/public_html/server.php on line 10
+[03-Feb-2020 18:31:33 UTC] PHP Warning:  require(loho1.php): failed to open stream: No such file or directory in /home/cy63deg3qhxi/public_html/server.php on line 10
+[03-Feb-2020 18:31:33 UTC] PHP Fatal error:  require(): Failed opening required 'loho1.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/cy63deg3qhxi/public_html/server.php on line 10
+[03-Feb-2020 18:31:40 UTC] PHP Warning:  require(loho1.php): failed to open stream: No such file or directory in /home/cy63deg3qhxi/public_html/server.php on line 10
+[03-Feb-2020 18:31:40 UTC] PHP Fatal error:  require(): Failed opening required 'loho1.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/cy63deg3qhxi/public_html/server.php on line 10
+[03-Feb-2020 18:31:42 UTC] PHP Warning:  require(loho1.php): failed to open stream: No such file or directory in /home/cy63deg3qhxi/public_html/server.php on line 10
+[03-Feb-2020 18:31:42 UTC] PHP Fatal error:  require(): Failed opening required 'loho1.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/cy63deg3qhxi/public_html/server.php on line 10
+[03-Feb-2020 18:31:54 UTC] PHP Warning:  require(loho1.php): failed to open stream: No such file or directory in /home/cy63deg3qhxi/public_html/server.php on line 10
+[03-Feb-2020 18:31:54 UTC] PHP Fatal error:  require(): Failed opening required 'loho1.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/cy63deg3qhxi/public_html/server.php on line 10
+[03-Feb-2020 18:32:41 UTC] PHP Warning:  require(loho1.php): failed to open stream: No such file or directory in /home/cy63deg3qhxi/public_html/server.php on line 10
+[03-Feb-2020 18:32:41 UTC] PHP Fatal error:  require(): Failed opening required 'loho1.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/cy63deg3qhxi/public_html/server.php on line 10
+[03-Feb-2020 18:32:52 UTC] PHP Warning:  require(loho1.php): failed to open stream: No such file or directory in /home/cy63deg3qhxi/public_html/server.php on line 10
+[03-Feb-2020 18:32:52 UTC] PHP Fatal error:  require(): Failed opening required 'loho1.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/cy63deg3qhxi/public_html/server.php on line 10
+[03-Feb-2020 18:32:53 UTC] PHP Warning:  require(loho1.php): failed to open stream: No such file or directory in /home/cy63deg3qhxi/public_html/server.php on line 10
+[03-Feb-2020 18:32:53 UTC] PHP Fatal error:  require(): Failed opening required 'loho1.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/cy63deg3qhxi/public_html/server.php on line 10
+[03-Feb-2020 18:33:25 UTC] PHP Warning:  require(loho1.php): failed to open stream: No such file or directory in /home/cy63deg3qhxi/public_html/server.php on line 10
+[03-Feb-2020 18:33:25 UTC] PHP Fatal error:  require(): Failed opening required 'loho1.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/cy63deg3qhxi/public_html/server.php on line 10
+[03-Feb-2020 18:37:15 UTC] PHP Warning:  require(loho1.php): failed to open stream: No such file or directory in /home/cy63deg3qhxi/public_html/server.php on line 10
+[03-Feb-2020 18:37:15 UTC] PHP Fatal error:  require(): Failed opening required 'loho1.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/cy63deg3qhxi/public_html/server.php on line 10
+[03-Feb-2020 18:37:18 UTC] PHP Warning:  require(loho1.php): failed to open stream: No such file or directory in /home/cy63deg3qhxi/public_html/server.php on line 10
+[03-Feb-2020 18:37:18 UTC] PHP Fatal error:  require(): Failed opening required 'loho1.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/cy63deg3qhxi/public_html/server.php on line 10
+[03-Feb-2020 18:38:34 UTC] PHP Warning:  require(loho1.php): failed to open stream: No such file or directory in /home/cy63deg3qhxi/public_html/server.php on line 10
+[03-Feb-2020 18:38:34 UTC] PHP Fatal error:  require(): Failed opening required 'loho1.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/cy63deg3qhxi/public_html/server.php on line 10
+[03-Feb-2020 18:38:41 UTC] PHP Warning:  require(loho1.php): failed to open stream: No such file or directory in /home/cy63deg3qhxi/public_html/server.php on line 10
+[03-Feb-2020 18:38:41 UTC] PHP Fatal error:  require(): Failed opening required 'loho1.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/cy63deg3qhxi/public_html/server.php on line 10
+[03-Feb-2020 18:38:42 UTC] PHP Warning:  require(loho1.php): failed to open stream: No such file or directory in /home/cy63deg3qhxi/public_html/server.php on line 10
+[03-Feb-2020 18:38:42 UTC] PHP Fatal error:  require(): Failed opening required 'loho1.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/cy63deg3qhxi/public_html/server.php on line 10
+[03-Feb-2020 18:38:44 UTC] PHP Warning:  require(loho1.php): failed to open stream: No such file or directory in /home/cy63deg3qhxi/public_html/server.php on line 10
+[03-Feb-2020 18:38:44 UTC] PHP Fatal error:  require(): Failed opening required 'loho1.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/cy63deg3qhxi/public_html/server.php on line 10
+[03-Feb-2020 18:38:44 UTC] PHP Warning:  require(loho1.php): failed to open stream: No such file or directory in /home/cy63deg3qhxi/public_html/server.php on line 10
+[03-Feb-2020 18:38:44 UTC] PHP Fatal error:  require(): Failed opening required 'loho1.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/cy63deg3qhxi/public_html/server.php on line 10
+[03-Feb-2020 18:38:44 UTC] PHP Warning:  require(loho1.php): failed to open stream: No such file or directory in /home/cy63deg3qhxi/public_html/server.php on line 10
+[03-Feb-2020 18:38:44 UTC] PHP Fatal error:  require(): Failed opening required 'loho1.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/cy63deg3qhxi/public_html/server.php on line 10
+[03-Feb-2020 18:57:08 UTC] PHP Notice:  Undefined variable: username in /home/cy63deg3qhxi/public_html/vgecapin.php on line 9
+[03-Feb-2020 19:19:34 UTC] PHP Notice:  Undefined index: username in /home/cy63deg3qhxi/public_html/vgecbooks.php on line 36
+[03-Feb-2020 19:19:34 UTC] PHP Notice:  Undefined index: username in /home/cy63deg3qhxi/public_html/vgecbooks.php on line 50
+[03-Feb-2020 19:19:34 UTC] PHP Notice:  Undefined index: username in /home/cy63deg3qhxi/public_html/vgecbooks.php on line 69
+[04-Feb-2020 09:43:20 UTC] PHP Notice:  Undefined index: username in /home/cy63deg3qhxi/public_html/vgecapron.php on line 36
+[04-Feb-2020 09:43:20 UTC] PHP Notice:  Undefined index: username in /home/cy63deg3qhxi/public_html/vgecapron.php on line 50
+[04-Feb-2020 09:43:20 UTC] PHP Notice:  Undefined index: username in /home/cy63deg3qhxi/public_html/vgecapron.php on line 69
+[05-Feb-2020 11:50:14 UTC] PHP Notice:  Undefined index: username in /home/cy63deg3qhxi/public_html/vgecegd.php on line 36
+[05-Feb-2020 11:50:14 UTC] PHP Notice:  Undefined index: username in /home/cy63deg3qhxi/public_html/vgecegd.php on line 50
+[05-Feb-2020 11:50:14 UTC] PHP Notice:  Undefined index: username in /home/cy63deg3qhxi/public_html/vgecegd.php on line 69
+[05-Feb-2020 18:24:40 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/cy63deg3qhxi/public_html/loho1.php on line 7
+[05-Feb-2020 18:24:40 UTC] PHP Notice:  Undefined variable: con in /home/cy63deg3qhxi/public_html/loho1.php on line 10
+[05-Feb-2020 18:24:40 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/cy63deg3qhxi/public_html/loho1.php on line 10
+[05-Feb-2020 18:24:40 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/cy63deg3qhxi/public_html/loho1.php on line 7
+[05-Feb-2020 18:24:40 UTC] PHP Notice:  Undefined variable: con in /home/cy63deg3qhxi/public_html/loho1.php on line 10
+[05-Feb-2020 18:24:40 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/cy63deg3qhxi/public_html/loho1.php on line 10
+[06-Feb-2020 09:10:34 UTC] PHP Notice:  Undefined index: username in /home/cy63deg3qhxi/public_html/vgecbooks.php on line 36
+[06-Feb-2020 09:10:34 UTC] PHP Notice:  Undefined index: username in /home/cy63deg3qhxi/public_html/vgecbooks.php on line 50
+[06-Feb-2020 09:10:34 UTC] PHP Notice:  Undefined index: username in /home/cy63deg3qhxi/public_html/vgecbooks.php on line 69
+[11-Feb-2020 16:51:06 UTC] PHP Notice:  Undefined index: username in /home/cy63deg3qhxi/public_html/vgecbooks.php on line 36
+[11-Feb-2020 16:51:06 UTC] PHP Notice:  Undefined index: username in /home/cy63deg3qhxi/public_html/vgecbooks.php on line 50
+[11-Feb-2020 16:51:06 UTC] PHP Notice:  Undefined index: username in /home/cy63deg3qhxi/public_html/vgecbooks.php on line 69
+[13-Feb-2020 14:05:52 UTC] PHP Notice:  Undefined index: username in /home/cy63deg3qhxi/public_html/vgecegd.php on line 36
+[13-Feb-2020 14:05:52 UTC] PHP Notice:  Undefined index: username in /home/cy63deg3qhxi/public_html/vgecegd.php on line 50
+[13-Feb-2020 14:05:52 UTC] PHP Notice:  Undefined index: username in /home/cy63deg3qhxi/public_html/vgecegd.php on line 69
+[13-Feb-2020 14:06:06 UTC] PHP Notice:  Undefined index: username in /home/cy63deg3qhxi/public_html/vgecapron.php on line 36
+[13-Feb-2020 14:06:06 UTC] PHP Notice:  Undefined index: username in /home/cy63deg3qhxi/public_html/vgecapron.php on line 50
+[13-Feb-2020 14:06:06 UTC] PHP Notice:  Undefined index: username in /home/cy63deg3qhxi/public_html/vgecapron.php on line 69
+[13-Feb-2020 14:06:13 UTC] PHP Notice:  Undefined index: username in /home/cy63deg3qhxi/public_html/vgecpg.php on line 36
+[13-Feb-2020 14:06:13 UTC] PHP Notice:  Undefined index: username in /home/cy63deg3qhxi/public_html/vgecpg.php on line 50
+[13-Feb-2020 14:06:13 UTC] PHP Notice:  Undefined index: username in /home/cy63deg3qhxi/public_html/vgecpg.php on line 69
+[13-Feb-2020 14:06:30 UTC] PHP Notice:  Undefined index: username in /home/cy63deg3qhxi/public_html/vgecbooks.php on line 36
+[13-Feb-2020 14:06:30 UTC] PHP Notice:  Undefined index: username in /home/cy63deg3qhxi/public_html/vgecbooks.php on line 50
+[13-Feb-2020 14:06:30 UTC] PHP Notice:  Undefined index: username in /home/cy63deg3qhxi/public_html/vgecbooks.php on line 69
+[16-Feb-2020 09:44:05 UTC] PHP Notice:  Undefined index: username in /home/cy63deg3qhxi/public_html/gecrbooks.php on line 36
+[16-Feb-2020 09:44:06 UTC] PHP Notice:  Undefined index: username in /home/cy63deg3qhxi/public_html/gecrbooks.php on line 50
+[16-Feb-2020 09:44:06 UTC] PHP Notice:  Undefined index: username in /home/cy63deg3qhxi/public_html/gecrbooks.php on line 69
+[16-Feb-2020 09:45:05 UTC] PHP Notice:  Undefined index: username in /home/cy63deg3qhxi/public_html/gecrbooks.php on line 36
+[16-Feb-2020 09:45:05 UTC] PHP Notice:  Undefined index: username in /home/cy63deg3qhxi/public_html/gecrbooks.php on line 50
+[16-Feb-2020 09:45:05 UTC] PHP Notice:  Undefined index: username in /home/cy63deg3qhxi/public_html/gecrbooks.php on line 69
